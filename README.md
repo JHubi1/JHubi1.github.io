@@ -26,8 +26,8 @@ I know the following languages:
 
 ## Projects
 Here you can find a list of the projects I am currently following. Some may not work anymore because they are outdated.
-+ KeyConfig
++ [KeyConfig](https://github.com/JHubi1/KeyConfig)
   + This is a simple (and my first) Python module. It can be used to theoretically interpret any file as a configuration file.
-+ IndexAPI (Old, but still functional)
++ [IndexAPI](https://github.com/JHubi1/IndexAPI) (Old, but still functional)
   + A JavaScript script that brings all the important website functions.
 + (More coming soon!)
