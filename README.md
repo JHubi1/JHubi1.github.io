@@ -7,8 +7,24 @@ On a side note, my favorite color is red!
 ## Programming Languages
 I know the following languages:
 + HTML & JavaScript
+  + Example:
+    ```html
+    <script>
+      alert("Hello World!");
+    </script>
+    ```
 + Python
+  + Example:
+    ```python
+    print("Hello World!")
+    ```
 + PHP
+  + Example:
+    ```php
+    <?php
+    echo "Hello World!";
+    ?>
+    ```
 
 ## Projects
 Here you can find a list of the projects I am currently following. Some may not work anymore because they are outdated.
