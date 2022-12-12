@@ -8,7 +8,7 @@ On a side note, my favorite color is red!
 I know the following languages:
 + HTML & JavaScript
   + ```javascript
-    alert("Hello World!");
+    document.write("Hello World!");
     ```
 + Python
   + ```python
