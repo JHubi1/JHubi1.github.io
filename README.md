@@ -8,15 +8,12 @@ On a side note, my favorite color is red!
 I know the following languages:
 + HTML & JavaScript
   + Example:
-    ```html
-    <script>
-      alert("Hello World!");
-    </script>
+    ```javascript
+    alert("Hello World!");
     ```
 + Python
   + Example:
     ```python
-    # Short code, I know...
     print("Hello World!")
     ```
 + PHP
