@@ -1,4 +1,4 @@
-# Welcome 👋
+# Hi, it's me! 👋
 Hi, my name is Jakob and I make coding for fun!
 I started early to get enthusiastic about programming. I love to think my way into (not too complex) problems and solve them.
 Preferably, however, when everything works as it should.
